@@ -1,0 +1,45 @@
+/*
+body {
+  background-color: green;
+}
+
+*/
+
+h1 {
+  text-align: center;
+}
+
+.mainbox {
+  margin-left: auto;
+  margin-right: auto;
+  width: 45em;
+  height: 15em;
+  position: relative;
+}
+
+.quote {
+  font-family: Raleway;
+  font-size: 180%;
+  text-align: center;  
+}
+
+.author {
+  font-family: Lobster, Monospace;
+  font-size: 100%;
+  text-align: right;
+}
+
+.category {
+  font-family: Tahoma;
+  text-align: right;  
+}
+
+#button {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+#by_me, h4 {
+  text-align: center;
+}
